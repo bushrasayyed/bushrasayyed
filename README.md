@@ -5,7 +5,7 @@
 
 ### 💡 About Me
 
-🚀 I'm a passionate Web Developer who loves crafting smooth, scalable, and interactive web applications.  
+🚀 I'm a passionate Developer who loves crafting smooth, scalable, and interactive web applications.  
 💻 Specializing in **front-end development** with **React.js**, **TypeScript**, and modern UI frameworks.  
 🔗 I build responsive, user-focused interfaces and connect them with robust backend APIs.  
 🌐 MERN stack? No problem — I enjoy working across the full web stack!  
