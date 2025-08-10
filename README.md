@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bushra Sayyed</h1>
-<h3 align="center">💻 A Passionate Full Stack Developer</h3>
+<h2 align="center">💻 Creative Frontend Developer | Building Interactive, High-Performance Web Apps with React & TypeScript</h2>
 
 ---
 
@@ -53,6 +53,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" alt="Express" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" alt="MongoDB" />
+  &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="30" alt="Firebase" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL" />
 </p>
