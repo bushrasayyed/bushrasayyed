@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bushra Sayyed</h1>
-<h2 align="center">💻 Creative Frontend Developer | Building Interactive, High-Performance Web Apps with React & TypeScript</h2>
+<h2 align="center">💻 Creative Frontend Developer | Building Interactive, High-Performance Web Apps with React, TypeScript & Next.js </h2>
 
 ---
 
